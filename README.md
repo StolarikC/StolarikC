@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @StolarikC
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning HTML, CSS, JavaScript, React, and Angular
-- 💞️ I’m looking to collaborate on general Web Dev projects using this languages, other languages are welcome too!
+- 💞️ I’m looking to collaborate on general Web Dev projects using these languages, other languages are welcome too!
 - 📫 Feel free to reach me @ StolarikC@gmail.com
 
 <!---
